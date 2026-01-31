@@ -1,0 +1,21 @@
+﻿City;Measure Names;Customer Lifetime Value;Quantity Sold
+Birmingham;Customer Lifetime Value;38481912,7900002;
+Frankfurt;Customer Lifetime Value;21553773,24;
+London;Customer Lifetime Value;50196224,4700002;
+Los Angeles;Customer Lifetime Value;26583638,04;
+Miami;Customer Lifetime Value;25369071,27;
+Montreal;Customer Lifetime Value;22106221,28;
+Munchen;Customer Lifetime Value;17875090,64;
+Oxford;Customer Lifetime Value;14573617,85;
+Toronto;Customer Lifetime Value;33992811,3400001;
+Vancouver;Customer Lifetime Value;25713067,62;
+Vancouver;Quantity Sold;;15135
+Toronto;Quantity Sold;;20084
+Oxford;Quantity Sold;;8350
+Munchen;Quantity Sold;;10684
+Montreal;Quantity Sold;;12475
+Miami;Quantity Sold;;15332
+Los Angeles;Quantity Sold;;15391
+London;Quantity Sold;;29848
+Frankfurt;Quantity Sold;;12548
+Birmingham;Quantity Sold;;22278

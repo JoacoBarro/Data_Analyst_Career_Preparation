@@ -1,0 +1,31 @@
+﻿Loyalty Status;Product Line;Count;Customer Lifetime Value
+VIP;TV and Video Gaming;12462;100573459,37
+Silver;TV and Video Gaming;2119;17090498,39
+Platinum;TV and Video Gaming;13388;107806399,39
+Gold;TV and Video Gaming;2573;20461395,88
+Elite;TV and Video Gaming;1926;16217180,49
+Bronze;TV and Video Gaming;1404;11187021,36
+VIP;Smart Electronics;222;1666376,79
+Silver;Smart Electronics;1964;15571992,17
+Platinum;Smart Electronics;326;2726449,72
+Gold;Smart Electronics;3659;28725377,04
+Elite;Smart Electronics;2136;16668554,01
+Bronze;Smart Electronics;14;107013,4
+VIP;Photography;300;2499923,03
+Silver;Photography;6046;47576336,43
+Platinum;Photography;250;1928894,82
+Gold;Photography;2536;19977305,33
+Elite;Photography;5801;45598832,3700001
+Bronze;Photography;21;141134,87
+VIP;Kitchen Appliances;361;2611452,65
+Silver;Kitchen Appliances;1767;14317535,88
+Platinum;Kitchen Appliances;275;1993690,08
+Gold;Kitchen Appliances;3165;25311236,3100001
+Elite;Kitchen Appliances;1967;16338990
+Bronze;Kitchen Appliances;31;337033,13
+VIP;Computers and Home Office;205;1603022,25
+Silver;Computers and Home Office;2089;17152405,73
+Platinum;Computers and Home Office;208;1725587,27
+Gold;Computers and Home Office;2457;19984593,57
+Elite;Computers and Home Office;1922;15451682,75
+Bronze;Computers and Home Office;12842;102699720,03
