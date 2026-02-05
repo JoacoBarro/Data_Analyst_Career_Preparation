@@ -1,6 +1,8 @@
 # 📌 **Data Analyst Career Preparation - Learning Path (IBM)**
 
-This repository follows a structured learning path composed of industry-relevant courses and hands-on guided projects. Each module builds progressively toward real-world data analysis proficiency.
+This repository follows a structured learning path composed of industry-relevant courses and hands-on guided projects. Each module builds progressively toward real-world data analysis proficiency.  
+  
+**Link**: https://cognitiveclass.ai/learn/data-analyst-career-preparation
 
 ## 🐍 Python for Data Analysis
 
